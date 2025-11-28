@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "figma": {
+      "command": "figma-mcp",
+      "args": [
+        "--token",
+        "Figma_token"
+      ]
+    }
+  }
+}
