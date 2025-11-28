@@ -4,7 +4,7 @@
       "command": "figma-mcp",
       "args": [
         "--token",
-        "figd_c29WV1Fquq1Xc5J4-mPLQzJgBE0bKTejUkM3VOgz"
+        "Figma_token"
       ]
     }
   }
